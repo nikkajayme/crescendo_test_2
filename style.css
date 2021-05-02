@@ -79,7 +79,7 @@ p {
 
 .sec-1 {
   padding: 130px 0;
-  background: url(../img/sec-1-bg.jpg);
+  background: url(img/sec-1-bg.jpg);
   background-size: cover;
   background-position: 10% 50%;
   color: white;
@@ -167,7 +167,7 @@ p {
       -ms-flex-align: center;
           align-items: center;
   padding: 130px 0;
-  background: url(../img/sec-3-bg.jpg);
+  background: url(img/sec-3-bg.jpg);
   background-size: cover;
   background-position: -100% 100%;
   color: white;
